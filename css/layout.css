@@ -1,4 +1,68 @@
 /* CSS LAYOUT */
 /* **************************************************************** */
 
+h2{
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+}
 
+.section_left{
+    width: 40vw;
+    height: 100vh;
+    background: linear-gradient(270deg, #F5C03F 0%, #F5C03F 100%);
+    float: left;
+    padding-left: 37px;
+    position: relative;
+}
+
+.section_rigth{
+    width: 60vw;
+    float: left;
+}
+
+.logo{
+    color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.perro_logo{
+    width: 73.05px;
+    height: 78px;
+}
+
+.parrafo_completo{
+    position: absolute;
+    top: 309px;
+}
+
+.parrafo{
+    width: 445.34px;
+    height: 378px;
+    color: white;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.boton{
+    border: none;
+    border-radius: 5px;
+    background-color: #B80404;
+    width: 88px;
+    height: 54px;
+    padding: 10px 20px;
+    color: white;
+    font-family: roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 45px;
+}
